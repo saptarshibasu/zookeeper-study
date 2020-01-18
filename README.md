@@ -132,7 +132,7 @@
 
 ## References
 
-* Kleppmann, Martin. Designing Data-Intensive Applications (Kindle Location 9571). O'Reilly Media. Kindle Edition. 
+* Kleppmann, Martin. Designing Data-Intensive Applications . O'Reilly Media. Kindle Edition. 
 * Junqueira, Flavio. ZooKeeper: Distributed Process Coordination . O'Reilly Media. Kindle Edition. 
 * https://www.usenix.org/legacy/events/atc10/tech/full_papers/Hunt.pdf
 
